@@ -1,2 +1,2 @@
-# portifolio-web-
+# portifolio-web
 Developer Portfolio 
